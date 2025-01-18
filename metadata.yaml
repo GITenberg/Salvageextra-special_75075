@@ -1,0 +1,38 @@
+_repo: Salvageextra-special_75075
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Day, Holman
+    aliases:
+    - Day, Holman Francis
+    - Day, Holman F.
+    birthdate: 1865
+    deathdate: 1935
+    gutenberg_agent_id: '1556'
+    url: http://www.gutenberg.org/2009/agents/1556
+    wikipedia: https://en.wikipedia.org/wiki/Holman_Day
+description: ''
+gutenberg_issued: '2025-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75075'
+language: en
+pgterms:marc904: https://archive.org/details/popular-magazine-v-095-n-03-1929-03-20
+pgterms:marc905: 20250101102031day
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the March 20, 1929 issue of The Popular Magazine.
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Smuggling -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Salvage—extra special
+url: http://www.gutenberg.org/ebooks/75075
